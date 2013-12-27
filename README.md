@@ -26,7 +26,7 @@ More information, see [example/app.js](https://github.com/k0sukey/TiBCGenieEffec
 				width: 60,
 				height: 60
 			},
-			edge: GENIE.RECT_TOP
+			edge: Genie.RECT_TOP
 		},
 		function(){
 			console.log('animation completed');
