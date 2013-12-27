@@ -1,0 +1,3 @@
+[submodule "BCGenieEffect"]
+	path = BCGenieEffect
+	url = git@github.com:Ciechan/BCGenieEffect.git
